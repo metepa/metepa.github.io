@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://metepa.github.io/</id>
     <title>桃花洲</title>
-    <updated>2020-12-15T20:12:22.272Z</updated>
+    <updated>2020-12-15T20:22:12.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://metepa.github.io/"/>
     <link rel="self" href="https://metepa.github.io/atom.xml"/>
-    <subtitle>一個開放玄幻與科幻架構</subtitle>
+    <subtitle>&lt;a href=&quot;https://github.com/metepa&quot; target=&quot;_blank&quot;&gt;一個開放玄幻與科幻架構&lt;/a&gt;</subtitle>
     <logo>https://metepa.github.io/images/avatar.png</logo>
     <icon>https://metepa.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 桃花洲</rights>
